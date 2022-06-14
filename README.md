@@ -18,6 +18,7 @@ demo creating a new repository for the Excel assignment
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- conclusion 1: plays with a launch date in the summer are more likely to reach their funding goals
 
 - What can you conclude about the Outcomes based on Goals?
 
